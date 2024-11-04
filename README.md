@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana10&label=Profile%20views&color=0e75b6&style=flat" alt="sumana10" /> </p>
 
-- 🔭 I’m currently working on **ODDO**
+- 🔭 I’m currently working on **Multiple Management Systems (LMS, CMS, HRM & ECOM)**
 
 - 🌱 I’m currently learning **Cloud Services**
 
